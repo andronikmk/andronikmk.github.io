@@ -37,7 +37,7 @@ avatar: "img/andronik.png
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#FFF1E5"
+navbar-col: "#F2DFCE"
 navbar-text-col: "#33302E"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFF9F5"
@@ -72,7 +72,7 @@ social-network-links:
   github: andronikmk
 #  twitter: 
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: andronik-mkrtychev
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
