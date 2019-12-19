@@ -35,8 +35,8 @@ avatar: "img/andronik.png
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+
 navbar-col: "#66023C"
 navbar-text-col: "#33302E"
 navbar-children-col: "#F5F5F5"
