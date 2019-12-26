@@ -36,15 +36,15 @@ avatar: "img/andronik.png"
 
 # --- Background colour/image options --- #
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: '#66023c'
-navbar-text-col: "##e8e6e7"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFF9F5"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#FFF1E5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: '#00C79F'
+navbar-text-col: "#ffffff"
+navbar-children-col: "#ffffff"
+page-col: "#ffffff"
+link-col: "#ffffff"
+hover-col: "#ffffff"
+footer-col: "#ffffff"
+footer-text-col: "#ffffff"
+footer-link-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
