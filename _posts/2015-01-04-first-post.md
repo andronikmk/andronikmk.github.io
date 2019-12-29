@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Bookshelf
-image: /img/Trinity-College-Library-Dublin-1050x787.png
 ---
-2020 Reading list
+2020 reading list
 
-  - The Road to Unfreedom: Russia, Europe, America 
+  - The Road to Unfreedom: Russia, Europe, America
