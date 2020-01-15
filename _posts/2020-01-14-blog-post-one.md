@@ -13,7 +13,7 @@ The cotton textile industry provide a fine example of what can be achieved using
 
 The firms of the Massachusetts-type, modeled after the Boston Manufacturing Company, were located on major rivers of northern New England. Generally capitalized in excess of $500,000, these were typically multi-factory operations. From the beginning, Massachusetts-type firms were fully integrated facilities producing units heavily concentrated in low-count goods or goods that drop in demand when consumer income rises. Massachusetts-type firms were responsible for the majority of textile producing from 1825–60 measured in yards.
 
-![mass-type](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/Merrimack_Mills_1850.gif)
+![mass-type](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/mass_type.png)
 
 The image above shows the amount of yards of textile produced per county in the New England area. Production was concentrated in a few counties.
 
