@@ -25,7 +25,7 @@ Rhode Island-type firms, existed along side the Massachusetts-type in much a muc
 
 The distribution of these firms were not wholly geographic. In some cases, the firms of Rhode Island-type were located in Massachusetts as well as Rhode Island Connecticut. Company records for at least some of the Massachusetts-type and Rhode Island-type firms exist for at least some part during the antebellum period.
 
-###### Section Two ######
+### Section Two ###
 
 Increase in productivity by Massachusetts-type firms during the antebellum period resulted in an increase in output per spindle by approximately 50 percent during the 1830’s. In the long run, an upward trend of labor productivity and changes in direction of capital-index around 1840 might suggest innovation prior to 1840 was labor saving as well as capital saving.
 
@@ -39,5 +39,5 @@ The dominant economic event of the late 1850’s was the panic of 1857. Sales an
 
 The records of business firms represent a relatively untouched resource which should be of use to study the American economy. This post attempts to make sense of the fluctuations in the cotton industrial output between the Census benchmark years. These records can shed light on the fluctuations in inventories, sales, costs, profits, and for other variables for which there is only benchmark data.
 
-###### Reference ######
+#### Reference ####
 1. Lance E. Davis and H. Louis Stettler III. The New England Textile Industry, 1825–60: Trends and Fluctuations, pages 213–242. NBER, 1966.
