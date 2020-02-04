@@ -73,3 +73,4 @@ Annual inflation rate experienced volatility post-Black Death and Tudor inflatio
 #### Reference ####
 1. Broadberry, S., Campbell, B., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British Economic Growth, 1270–1870. Cambridge: Cambridge University Press. doi:10.1017/CBO9781107707603
 2. “Sklearn.tree.DecisionTreeRegressor¶.” Scikit, scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html.
+3. “A Millennium of Macroeconomic Data for the UK.” Bank of England, Bank of England, 31 Aug. 2018, www.bankofengland.co.uk/statistics/research-datasets.
