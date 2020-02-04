@@ -53,3 +53,23 @@ While the European dimension of development await further investigation, it is a
 </p>
 
 <script src="https://gist.github.com/andronikmk/7fc4e4e6f89bce1969edb02328a781da.js"></script>
+
+<p style="text-align: justify;">
+Real consumption earnings was modeled using a decision tree regressor which breaks down a data-set into smaller and smaller subsets while at the same time an association tree is incrementally developed. This method of analysis resulted in a validation accuracy of 0.641 which suggests that the percentage of correct classifications using this model was approximately 64.1%.
+</p>
+
+![figure8](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure8.png)
+
+<p style="text-align: justify;">
+In addition, it was determined that annual inflation rate, in particular, was a feature in the data-set that weighted most heavily on validation accuracy after the permutation importance was calculated. According to the decision tree regressor, real consumption earnings is significantly influenced by annual inflation rate.
+</p>
+
+![image2](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png)
+
+<p style="text-align: justify;">
+Annual inflation rate experienced volatility post-Black Death and Tudor inflation which caused a sharp financial set-back. However, overtime as volatility in annual inflation rate stabilized so did real consumption earnings. This stabilization in consumption earnings decreased the volatility in prices consumers experienced in the market place. It would require further analysis and exploration in the causes and effects that determine annual inflation rates to unpack the full complexity of this fascination story.
+</p>
+
+#### Reference ####
+1. Broadberry, S., Campbell, B., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British Economic Growth, 1270–1870. Cambridge: Cambridge University Press. doi:10.1017/CBO9781107707603
+2. “Sklearn.tree.DecisionTreeRegressor¶.” Scikit, scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html.
