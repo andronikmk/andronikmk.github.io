@@ -14,23 +14,29 @@ The following article explores data published by the Bank of England. The data-s
 set of macroeconomic and financial indicators from England and Great Britain stretching back in some cases to the C13th.
 </p>
 
-![figure1](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure1.png)
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure1.png">
+</p>
 
 <p style="text-align: justify;">
 Figure 1 shows the broad trends in population, real GDP and real GDP per head for England from 1270 to 1700 and Great Britain from 1700 to 1870, which is indexed to provide a continuous series. The changes observed over 600 years occurred slowly but with a cumulative effect which is quite impressive. Figure 1 shows a five-fold growth in population, a twenty-eight-fold growth in GDP and a 5.7 fold growth in GDP per head. Progress was episodic and happened in approximately five phases, including the period between 1270 to the outbreak of the Black Death in 1348.
 </p>
 
-![figure2](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure2.png">
+</p>
 
 <p style="text-align: justify;">
  Unsurprisingly, farmers expanded or reduced their output, altered its composition, raised or lowered the intensity of production in accordance to changes in demand. Following the Black Death, there were fewer mouths to feed, people to cloth and hands to be employed, agricultural output contracted. Re-expansion took place following population growth in the sixteenth century and continued rising in the seventeenth and eighteenth century. Agricultural historians have expended great energy debating which of theses episodes of population growth, rising yields and expanding outputs constituted an Agricultural Revolution, as well as the technological, institutional and economic sources which would explain the productivity gains shown in Figure 2.
 </p>
 
-![figure3](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure3.png">
+</p>
 
-![figure4](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure4.png">
+</p>
 
 <p style="text-align: justify;">
 From the mid-sixteenth century rising demand from a fast growing population stimulated a sustained re-expansion of agricultural output as well as livestock output, with arable land growth initially outpacing that of the livestock sector. From the mid-seventeenth century, population pressure eased, livestock output growth accelerated and significantly remained ahead of that of the arable sector throughout the eighteenth century notwithstanding the resumption of population growth. This was made possible by a new integrated mixed-farming systems of the agricultural revolution. Figure 3 shows the total output of livestock products in millions of pounds, gallons and tons.
