@@ -66,6 +66,10 @@ In addition, it was determined that annual inflation rate, in particular, was a 
 
 ![image2](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png">
+</p>
+
 <p style="text-align: justify;">
 Annual inflation rate experienced volatility post-Black Death and Tudor inflation which caused a sharp financial set-back. However, overtime as volatility in annual inflation rate stabilized so did real consumption earnings. This stabilization in consumption earnings decreased the volatility in prices consumers experienced in the market place. It would require further analysis and exploration in the causes and effects that determine annual inflation rates to unpack the full complexity of this fascination story.
 </p>
