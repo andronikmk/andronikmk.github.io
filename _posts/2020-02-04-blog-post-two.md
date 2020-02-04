@@ -14,9 +14,7 @@ The following article explores data published by the Bank of England. The data-s
 set of macroeconomic and financial indicators from England and Great Britain stretching back in some cases to the C13th.
 </p>
 
-<p style="text-align: center;">
 ![figure1](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure1.png)
-</p>
 
 <p style="text-align: justify;">
 Figure 1 shows the broad trends in population, real GDP and real GDP per head for England from 1270 to 1700 and Great Britain from 1700 to 1870, which is indexed to provide a continuous series. The changes observed over 600 years occurred slowly but with a cumulative effect which is quite impressive. Figure 1 shows a five-fold growth in population, a twenty-eight-fold growth in GDP and a 5.7 fold growth in GDP per head. Progress was episodic and happened in approximately five phases, including the period between 1270 to the outbreak of the Black Death in 1348.
@@ -47,3 +45,11 @@ Output of the industrial and service sectors achieved their late medieval peaks 
 <p style="text-align: justify;">
 The service sector has received much less attention from economic historians than agriculture and industry. Government was fundamentally important in determining the institutional infrastructure at national, regional and local levels within which economic activity took place. With the exception of the period between 1350 to 1450, when revenues from the Crown estate declined and there was little direct taxation, government revenues and services displayed a powerful tendency to rise. As economic expansion gathered momentum, trade and transport emerged as one of the most dynamic sectors of the economy. Growing at an annual average of 1.2 percent until the end of the seventeenth century. Figure 6 shows how over the centuries, financial sector output expanded and contracted with money supply, the availability of credit and the advent of institutional innovations in the instruments and methods of exchange. Finally, housing and domestic services have always formed a large part of the service sector output to almost half in 1700 and a third in 1840.
 </p>
+
+ ![figure7](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure7.png)
+ 
+<p style="text-align: justify;">
+While the European dimension of development await further investigation, it is already clear that the relationship between real consumer earnings, GDP per head and annual inflation rate are far more complex than usually appreciated. Patently, for good reason, labor supply per head was anything but constant over time. While exploring the data-set real consumption earnings, determined by income and changes in income, stood out as a feature important enough to explore further using machine learning techniques.
+</p>
+
+<script src="https://gist.github.com/andronikmk/7fc4e4e6f89bce1969edb02328a781da.js"></script>
