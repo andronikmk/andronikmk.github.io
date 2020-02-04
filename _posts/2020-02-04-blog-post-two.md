@@ -16,6 +16,8 @@ set of macroeconomic and financial indicators from England and Great Britain str
 
 ![figure1](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure1.png)
 
+
+
 <p style="text-align: justify;">
 Figure 1 shows the broad trends in population, real GDP and real GDP per head for England from 1270 to 1700 and Great Britain from 1700 to 1870, which is indexed to provide a continuous series. The changes observed over 600 years occurred slowly but with a cumulative effect which is quite impressive. Figure 1 shows a five-fold growth in population, a twenty-eight-fold growth in GDP and a 5.7 fold growth in GDP per head. Progress was episodic and happened in approximately five phases, including the period between 1270 to the outbreak of the Black Death in 1348.
 </p>
@@ -64,10 +66,8 @@ Real consumption earnings was modeled using a decision tree regressor which brea
 In addition, it was determined that annual inflation rate, in particular, was a feature in the data-set that weighted most heavily on validation accuracy after the permutation importance was calculated. According to the decision tree regressor, real consumption earnings is significantly influenced by annual inflation rate.
 </p>
 
-![image2](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png)
-
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/image2.png">
 </p>
 
 <p style="text-align: justify;">
