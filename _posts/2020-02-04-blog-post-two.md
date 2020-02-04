@@ -36,19 +36,25 @@ Figure 1 shows the broad trends in population, real GDP and real GDP per head fo
 From the mid-sixteenth century rising demand from a fast growing population stimulated a sustained re-expansion of agricultural output as well as livestock output, with arable land growth initially outpacing that of the livestock sector. From the mid-seventeenth century, population pressure eased, livestock output growth accelerated and significantly remained ahead of that of the arable sector throughout the eighteenth century notwithstanding the resumption of population growth. This was made possible by a new integrated mixed-farming systems of the agricultural revolution. Figure 3 shows the total output of livestock products in millions of pounds, gallons and tons.
 </p>
 
-![figure5](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure5.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure5.png">
+</p>
 
 <p style="text-align: justify;">
 Output of the industrial and service sectors achieved their late medieval peaks at the opening of the fourteenth century and thereafter contracted respectfully over this same period as the population halved. Between 1450 and 1700 English industrial output grew more than five-fold, while output per head doubled. This is largely due to structural redistribution of labor from agriculture to industry. Output grew consistently faster than the population throughout the sixteenth century, as metal and mining output fluctuated but nevertheless held up well, while textile production prospered, and the Reformation boosted demand for the printed book.
 </p>
  
- ![figure6](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure6.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure6.png">
+</p>
  
 <p style="text-align: justify;">
 The service sector has received much less attention from economic historians than agriculture and industry. Government was fundamentally important in determining the institutional infrastructure at national, regional and local levels within which economic activity took place. With the exception of the period between 1350 to 1450, when revenues from the Crown estate declined and there was little direct taxation, government revenues and services displayed a powerful tendency to rise. As economic expansion gathered momentum, trade and transport emerged as one of the most dynamic sectors of the economy. Growing at an annual average of 1.2 percent until the end of the seventeenth century. Figure 6 shows how over the centuries, financial sector output expanded and contracted with money supply, the availability of credit and the advent of institutional innovations in the instruments and methods of exchange. Finally, housing and domestic services have always formed a large part of the service sector output to almost half in 1700 and a third in 1840.
 </p>
 
- ![figure7](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure7.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure7.png">
+</p>
  
 <p style="text-align: justify;">
 While the European dimension of development await further investigation, it is already clear that the relationship between real consumer earnings, GDP per head and annual inflation rate are far more complex than usually appreciated. Patently, for good reason, labor supply per head was anything but constant over time. While exploring the data-set real consumption earnings, determined by income and changes in income, stood out as a feature important enough to explore further using machine learning techniques.
@@ -60,7 +66,9 @@ While the European dimension of development await further investigation, it is a
 Real consumption earnings was modeled using a decision tree regressor which breaks down a data-set into smaller and smaller subsets while at the same time an association tree is incrementally developed. This method of analysis resulted in a validation accuracy of 0.641 which suggests that the percentage of correct classifications using this model was approximately 64.1%.
 </p>
 
-![figure8](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure8.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure8.png">
+</p>
 
 <p style="text-align: justify;">
 In addition, it was determined that annual inflation rate, in particular, was a feature in the data-set that weighted most heavily on validation accuracy after the permutation importance was calculated. According to the decision tree regressor, real consumption earnings is significantly influenced by annual inflation rate.
