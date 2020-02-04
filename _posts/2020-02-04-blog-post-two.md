@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New England Textile Industry, 1825–60
+title: Using Machine Learning to Study Real Consumption Earnings, England and Great Britain 1270–1870
 tags: [history, economics, plotly, machine learning, decision tree regressor]
 ---
 <p style="text-align: justify;">
@@ -14,7 +14,9 @@ The following article explores data published by the Bank of England. The data-s
 set of macroeconomic and financial indicators from England and Great Britain stretching back in some cases to the C13th.
 </p>
 
+<p style="text-align: center;">
 ![figure1](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/figure1.png)
+</p>
 
 <p style="text-align: justify;">
 Figure 1 shows the broad trends in population, real GDP and real GDP per head for England from 1270 to 1700 and Great Britain from 1700 to 1870, which is indexed to provide a continuous series. The changes observed over 600 years occurred slowly but with a cumulative effect which is quite impressive. Figure 1 shows a five-fold growth in population, a twenty-eight-fold growth in GDP and a 5.7 fold growth in GDP per head. Progress was episodic and happened in approximately five phases, including the period between 1270 to the outbreak of the Black Death in 1348.
