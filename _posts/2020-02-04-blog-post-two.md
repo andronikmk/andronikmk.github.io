@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Machine Learning to Study Real Consumption Earnings, England and Great Britain 1270–1870
-tags: [history, economics, plotly, machine learning, decision tree regressor]
+tags: [history, economics, plotly, machine learning, decision tree regression]
 ---
 <p style="text-align: justify;">
 The economic development of Europe proceeded political consolidation and differentiation. 
