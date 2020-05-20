@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using PyTorch for Toxic Content Monitoring with FastText, FastAPI and Docker
-tags: [history, economics, plotly]
+tags: [social media, machine learning]
 ---
 
 ![cover](https://raw.githubusercontent.com/andronikmk/andronikmk.github.io/master/img/bitmap.png)
